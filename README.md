@@ -1,8 +1,7 @@
 <!-- Banner / Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2500&pause=700&color=0AFF0A&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Edric;Data+Analyst+%7C+Web+Developer+%7C+Creative+Technologist" />
-</p>
-
+<h1 align="center">
+  <img src="https://svg-banners.vercel.app/api?type=textBox&text1=Hi%20👋,%20I'm%20Edric&width=800&height=150&fontSize=50&color=000000&section=header&fontColor=ffffff" />
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Data+Analyst;Web+Developer;Creative+Technologist" alt="Typing Animation" />
