@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edric</h1>
 <h3 align="center">A passionate data analyst with a creative edge—bridging data, development, and design. I love transforming data into compelling stories, building dynamic web applications, and crafting stunning visual content.</h3>
 
-- 🌱 I’m currently learning **Android Web Development and Devops**
+- 🌱 I’m currently learning **GenAI and Devops**
 
 - ⚡ Fun fact **Jack of all trades ?? Maybe**
 
