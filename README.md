@@ -1,29 +1,32 @@
 <!-- Banner / Header -->
-<h1 align="center">
-  <img src="https://svg-banners.vercel.app/api?type=textBox&text1=Hi%20👋,%20I'm%20Edric&width=800&height=150&fontSize=50&color=000000&section=header&fontColor=ffffff" />
-</h1>
+<h1 align="center">Hi 👋, I'm Edric</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Data+Analyst;Web+Developer;Creative+Technologist" alt="Typing Animation" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" />
-</p>
+<!-- Side by side: Animated SVG | About Me -->
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" />
+      </p>
+    </td>
+    <td>
+      <h3>🌱 About Me</h3>
+      <ul>
+        <li>🎓 A passionate <strong>Data Analyst</strong> with a creative edge—bridging <strong>data, design, and development</strong>.</li>
+        <li>💡 I enjoy <strong>transforming raw data into actionable insights</strong>, crafting dynamic <strong>full-stack applications</strong>, and designing <strong>impactful visual stories</strong>.</li>
+        <li>📚 Currently learning <strong>Generative AI</strong> and <strong>DevOps</strong> to expand my skill set.</li>
+        <li>⚡ <em>Fun fact: “Jack of all trades”? Maybe. But I believe in being the master of integration.</em></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://portfolio-pi-sage-99.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Visit My Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
-
----
-
-### 🌱 About Me  
-- 🎓 A passionate **Data Analyst** with a creative edge—bridging **data, design, and development**.  
-- 💡 I enjoy **transforming raw data into actionable insights**, crafting dynamic **full-stack applications**, and designing **impactful visual stories**.  
-- 📚 Currently learning **Generative AI** and **DevOps** to expand my skill set.  
-- ⚡ *Fun fact: “Jack of all trades”? Maybe. But I believe in being the master of integration.*  
+ 
 
 ---
 
