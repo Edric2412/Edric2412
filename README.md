@@ -1,8 +1,15 @@
 <!-- Banner / Header -->
-<h1 align="center">Hi 👋, I'm Edric</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2500&pause=700&color=0AFF0A&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Edric;Data+Analyst+%7C+Web+Developer+%7C+Creative+Technologist" />
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Data+Analyst;Web+Developer;Creative+Technologist" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" />
 </p>
 
 <p align="center">
