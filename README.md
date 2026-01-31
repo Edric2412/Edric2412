@@ -12,10 +12,11 @@
     <td>
       <h3>🌱 About Me</h3>
       <ul>
-        <li>🎓 A passionate <strong>Data Analyst</strong> with a creative edge—bridging <strong>data, design, and development</strong>.</li>
-        <li>💡 I enjoy <strong>transforming raw data into actionable insights</strong>, crafting dynamic <strong>full-stack applications</strong>, and designing <strong>impactful visual stories</strong>.</li>
-        <li>📚 Currently learning <strong>Generative AI</strong> and <strong>DevOps</strong> to expand my skill set.</li>
-        <li>⚡ <em>Fun fact: “Jack of all trades”? Maybe. But I believe in being the master of integration.</em></li>
+        <li>🎓 Focused on <strong>AI/ML Engineering</strong>.</li>
+        <li>⚙️ I build <strong>production-grade ML & GenAI systems</strong> — not just models, but <em>pipelines that scale</em>.</li>
+        <li>🤖 Experience with <strong>LLM-based evaluation systems</strong>, <strong>RAG pipelines</strong>, and <strong>asynchronous AI workflows</strong>.</li>
+        <li>📦 Strong focus on <strong>deployment, evaluation, observability, and cost-aware AI systems</strong>.</li>
+        <li>🎯 Actively preparing for <strong>AI / ML Engineer</strong> roles.</li>
       </ul>
     </td>
   </tr>
