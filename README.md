@@ -1,5 +1,5 @@
 # <!-- Banner / Header -->
-<h1 align="center">Hi 👋, I'm Edric</h1>
+<h1 align="center">Hi 👋, I'm Edric, I use Fedora + Hyprland btw... </h1>
 
 <!-- Side by side: Animated SVG | About Me -->
 <table>
